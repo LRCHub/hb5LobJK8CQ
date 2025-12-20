@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "WANDERERS",
+  "base_artist": "松任谷由実",
+  "createdAt": "2025-12-20T09:58:52.908245Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Wanderers",
+      "artist": "The G feat. Michelle B",
+      "has_synced": false,
+      "path": "select/01_Wanderers_The_G_feat._Michelle_B.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Wanderers",
+      "artist": "The G",
+      "has_synced": false,
+      "path": "select/02_Wanderers_The_G.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dream Wanderer's Tune",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/03_Dream_Wanderer's_Tune_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wanderers",
+      "artist": "Visions of Atlantis",
+      "has_synced": true,
+      "path": "select/04_Wanderers_Visions_of_Atlantis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wanderers and Dreamers",
+      "artist": "Whyzdom",
+      "has_synced": true,
+      "path": "select/05_Wanderers_and_Dreamers_Whyzdom.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Saturation Wanderers",
+      "artist": "The Soundtrack Of Our Lives",
+      "has_synced": true,
+      "path": "select/06_Saturation_Wanderers_The_Soundtrack_Of_Our_Lives.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wanderers",
+      "artist": "Stars",
+      "has_synced": true,
+      "path": "select/07_Wanderers_Stars.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Wanderers",
+      "artist": "YUTAKA YAMADA",
+      "has_synced": true,
+      "path": "select/08_Wanderers_YUTAKA_YAMADA.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wanderers Guild",
+      "artist": "Armor for Sleep",
+      "has_synced": true,
+      "path": "select/09_Wanderers_Guild_Armor_for_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wanderer's Guild [Demo]",
+      "artist": "Armor For Sleep",
+      "has_synced": true,
+      "path": "select/10_Wanderer's_Guild_[Demo]_Armor_For_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Wanderers Guild",
+      "artist": "Armor For Sleep",
+      "has_synced": true,
+      "path": "select/11_The_Wanderers_Guild_Armor_For_Sleep.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "flashback trip syndrome-feat. Main Theme of \"NANASE: The Psychic Wanderers\"-",
+      "artist": "School Food Punishment",
+      "has_synced": false,
+      "path": "select/12_flashback_trip_syndrome-feat._Main_Theme_of__NANASE__The_Psychic_Wanderers_-_School_Food_Punishment.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "WANDERERS",
+      "artist": "JAM Project",
+      "has_synced": false,
+      "path": "select/13_WANDERERS_JAM_Project.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wanderers",
+      "artist": "やまだ豊 feat. ルシュカ",
+      "has_synced": true,
+      "path": "select/14_Wanderers_やまだ豊_feat._ルシュカ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Wanderer's Guild (Demo)",
+      "artist": "Armor for Sleep",
+      "has_synced": false,
+      "path": "select/15_Wanderer's_Guild_(Demo)_Armor_for_Sleep.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "WANDERERS",
+      "artist": "松任谷 由実",
+      "has_synced": false,
+      "path": "select/pl_01_WANDERERS_松任谷_由実.txt"
+    }
+  ]
+}
